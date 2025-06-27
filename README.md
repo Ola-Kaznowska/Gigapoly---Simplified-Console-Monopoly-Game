@@ -59,7 +59,7 @@ Requirements
 
 # Download Python (version 3.13.5 recommended):👉 https://www.python.org/downloads/
 
-# Download Visual Studio Code (optional):👉 https://code.visualstudio.com/
+# Download Visual Studio Code:👉 https://code.visualstudio.com/
 
 # Clone or Download the ProjectSave the Python script (gigapoly_game.py) locally.
 
